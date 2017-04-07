@@ -1,4 +1,4 @@
-# Verne-Dependencies
+# Verne-deps
 This is the source for a Docker image that contains Verne's dependencies. It needs to be built before Verne.
 
 ## Build instructions
