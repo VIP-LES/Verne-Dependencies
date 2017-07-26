@@ -7,7 +7,7 @@ Run the following:
 ```bash
 cd /tmp &&
 sudo git clone https://github.com/VIP-LES/Verne-deps.git &&
-cd Verne-Dependencies &&
+cd Verne-deps &&
 sudo chmod +x ./scripts/build-image.sh &&
 sudo ./scripts/build-image.sh
 ```
